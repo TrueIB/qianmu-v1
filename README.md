@@ -43,7 +43,7 @@ qianmu-v1/
 │       ├── 2.jpg
 │       └── ...
 ├── README.md              # Project documentation (this file)
-├── README_zh.md              # Project Chinese documentation
+├── README_zh.md           # Project Chinese documentation
 ├── icon.png               # Project icon (PNG)
 ├── icon.ico               # Project icon (ICO)
 ├── losses.png             # Training loss curve
