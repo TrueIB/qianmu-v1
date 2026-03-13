@@ -42,7 +42,8 @@ qianmu-v1/
 │       ├── 1.jpg
 │       ├── 2.jpg
 │       └── ...
-├── README.md              # 项目说明文档（当前文件）
+├── README.md              # 项目说明文档
+├── README_zh.md           # 项目中文说明文档（当前文件）
 ├── icon.png               # 项目图标（PNG）
 ├── icon.ico               # 项目图标（ICO）
 ├── losses.png             # 训练损失曲线图
